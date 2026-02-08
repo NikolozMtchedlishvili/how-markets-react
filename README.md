@@ -43,10 +43,10 @@ This project is a work in progress, and future improvements will focus on provid
 ![New Plot](screenshots/newplot.png)
 
 2. Zoomed to Jan 2025 to Feb 2026 Period. Hovered over Aug 1, 2025 which shows one of the headlines from AP news.
-![Hovered News](screenshots/Screenshot_2026-02-08_143053.png)
+![Hovered News](screenshots/Screenshot-2026-02-08-143053.png)
 
 3.
-![Another Screenshot](screenshots/Screenshot_2026-02-08_143636.png)
+![Another Screenshot](screenshots/Screenshot-2026-02-08-143502.png)
 
 
 
