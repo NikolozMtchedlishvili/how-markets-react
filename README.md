@@ -22,7 +22,7 @@ The news.csv included is just a sample demonstration. You can replace it with yo
 
 # Personal Context
 
-I run a micro hedge fund to manage my personal and family's savings. When I started investing a year ago, I was not fully aware of what drove market movements. 
+I manage a small investment portfolio for my family for educational purposes. When I started investing a year ago, I was not fully aware of what drove market movements. 
 
 By building this model I have developed stronger understanding of how global markets move and how do different events like geopolitical tensions or sentiment affects stock prices.
 
